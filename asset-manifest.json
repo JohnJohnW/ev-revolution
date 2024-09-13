@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ev-revolution/static/css/main.b2eb420b.css",
+    "main.js": "/ev-revolution/static/js/main.a535358f.js",
+    "static/js/453.78ec4068.chunk.js": "/ev-revolution/static/js/453.78ec4068.chunk.js",
+    "index.html": "/ev-revolution/index.html",
+    "main.b2eb420b.css.map": "/ev-revolution/static/css/main.b2eb420b.css.map",
+    "main.a535358f.js.map": "/ev-revolution/static/js/main.a535358f.js.map",
+    "453.78ec4068.chunk.js.map": "/ev-revolution/static/js/453.78ec4068.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2eb420b.css",
+    "static/js/main.a535358f.js"
+  ]
+}
